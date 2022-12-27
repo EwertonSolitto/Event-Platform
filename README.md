@@ -1,8 +1,14 @@
-# React-Ignite-Lab-from-Rocketseat
+# Event Platform
 
-Projeto criado no evento IgniteLab da Rocketseat criando uma página de inscrição.
+# About 📝
 
-## Tecnologias utilizadas
+https://react-ignite-lab-from-rocketseat.vercel.app
+
+Event Platform is **Fullstack** application built with **React** at the Ignite Lab, event organized by [Rocketseat](https://app.rocketseat.com.br).
+
+This project is a Platform for Events where you need to fill out a little form with name and email and log into the Event. On the next page, has the sidebar in the right with a schedule and on the left all the of the informations from each content and a video player.
+
+# Technologies ⚡
 
 • ReactJS
 
@@ -11,8 +17,4 @@ Projeto criado no evento IgniteLab da Rocketseat criando uma página de inscriç
 • GraphQL
 
 • TailwindCSS
-
-<hr/>
-
-## <a href="https://react-ignite-lab-from-rocketseat.vercel.app/">Link da Paǵina</a>
 
