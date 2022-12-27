@@ -1,4 +1,6 @@
-# Event Platform
+# Event Platform 🎉
+
+[![LICENSE](https://img.shields.io/npm/l/react)](https://github.com/EwertonSolitto/Event-Platform/blob/main/LICENSE)
 
 # About 📝
 
